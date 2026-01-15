@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/background">
+
+    <!-- Pontuação e Vidas -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvPontuacao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pontuação: 0"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/tvVidas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:text="Vidas: 3"
+            android:textSize="20sp"/>
+    </RelativeLayout>
+
+    <!-- Imagem da Forca com Boneco -->
+    <ImageView
+        android:id="@+id/ivForca"
+        android:layout_width="295dp"
+        android:layout_height="380dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/forca_vazia2"/>
+
+    <!-- Palavra com Underlines -->
+    <TextView
+        android:id="@+id/tvPalavra"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="_ _ _ _ _"
+        android:textSize="36sp"
+        android:letterSpacing="0.1"/>
+
+    <!-- Letras Erradas -->
+    <TextView
+        android:id="@+id/tvErros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Erradas: "
+        android:textSize="18sp"/>
+
+    <!-- Teclado Virtual -->
+    <GridLayout
+        android:id="@+id/gridTeclado"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:columnCount="7"
+        android:rowCount="4" />
+
+    <!-- Botões de Controle -->
+    <Button
+        android:id="@+id/btnNovoJogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Novo Jogo"
+        android:layout_gravity="center"/>
+</LinearLayout>

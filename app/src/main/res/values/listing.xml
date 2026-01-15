@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_listing">Jogo da Forca: Divirta-se!</string>
+    <string name="short_description">Teste seu conhecimento e adivinhe as palavras neste clássico jogo da forca!</string>
+    <string name="full_description">
+        Prepare-se para o desafio definitivo de adivinhação de palavras com o Jogo da Forca!
+
+        Um passatempo clássico agora no seu celular, com um visual moderno e recursos incríveis:
+
+        - **Níveis de Dificuldade:** Comece no modo Fácil e avance até o Difícil para testar suas habilidades.
+        - **Ranking:** Marque sua pontuação e compita para ser o melhor jogador!
+        - **Temas:** Jogue no modo claro ou escuro, como preferir.
+        - **Vidas Extras:** Ficou sem vidas? Assista a um anúncio para ganhar uma nova chance e continuar jogando!
+
+        Baixe agora e veja quantas palavras você consegue adivinhar!
+    </string>
+</resources>
