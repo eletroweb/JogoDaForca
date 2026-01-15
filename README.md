@@ -1,16 +1,20 @@
-# 🎮 Nome do Jogo
+# 🎮 Jogo da Forca
 
 Jogo desenvolvido em Android utilizando.
 
 ## 🚀 Sobre o jogo
-Um jogo classicoda forca onde você precisa advinhar as palavras de ação onde o jogador precisa superar desafios e avançar fases.
+Um jogo classicoda forca onde você precisa advinhar as palavras onde o jogador precisa superar desafios e avançar fases.
 
 ## 🕹️ Gameplay
 
 <p align="center">
-  <img src="images/menu.png" width="250"/>
-  <img src="images/gameplay.png" width="250"/>
-  <img src="images/fases.png" width="250"/>
+  <img src="forca-classico-play.png" width="250"/>
+  <img src="tela2-nivel.png" width="250"/>
+  <img src="tela-jogo.png" width="250"/>
+  <img src="tela-jogo4.png" width="250"/>
+  <img src="tela-jogo5.png" width="250"/>
+
+
 </p>
 
 ## 📱 Plataforma
