@@ -8,7 +8,7 @@ Um jogo classicoda forca onde você precisa advinhar as palavras, senão já sab
 ## 🕹️ Gameplay
 
 <p align="center">
-  <img src="./images/forca-classico-play.png" width="250"/>
+  <img src="./images/tela1.png" width="250"/>
   <img src="./images/tela2-nivel.png" width="250"/>
   <img src="./images/tela-jogo.png" width="250"/>
   <img src="./images/tela-jogo3.png" width="250"/>
@@ -36,3 +36,5 @@ Veja em: [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
 
 ## 📥 Download
 Disponível em breve na Google Play Store.
+
+  <img src="./images/forca-classico-play.png" width="250"/>
