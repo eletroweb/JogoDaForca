@@ -8,11 +8,11 @@ Um jogo classicoda forca onde você precisa advinhar as palavras onde o jogador 
 ## 🕹️ Gameplay
 
 <p align="center">
-  <img src="forca-classico-play.png" width="250"/>
-  <img src="tela2-nivel.png" width="250"/>
-  <img src="tela-jogo.png" width="250"/>
-  <img src="tela-jogo4.png" width="250"/>
-  <img src="tela-jogo5.png" width="250"/>
+  <img src="app/src/forca-classico-play.png" width="250"/>
+  <img src="app/src/tela2-nivel.png" width="250"/>
+  <img src="app/src/tela-jogo.png" width="250"/>
+  <img src="app/src/tela-jogo4.png" width="250"/>
+  <img src="app/src/tela-jogo5.png" width="250"/>
 
 
 </p>
